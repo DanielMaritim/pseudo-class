@@ -1,2 +1,2 @@
 # pseudo-class
-z repo about pseudo classes in html
+This is a  repo about pseudo classes in html
